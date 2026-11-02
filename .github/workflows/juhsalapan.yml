@@ -49,6 +49,9 @@ jobs:
       matrix:
 
         target:
+          - 'z2'
+          - 'z2b'
+          - 'z2c'
           - 'z26'
           - 'z26b'
           - 'z26c'
